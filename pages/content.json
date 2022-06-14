@@ -1,0 +1,30 @@
+{
+  "collection": {
+    "din5008": {
+      "title": "DIN5008",
+      "subtitle": "geschäftliche Briefe erstellen",
+      "videosrc": "/movie.mp4",
+      "info": "Briefe nach der DIN5008 muessen bestimme vorschriften erfellen die in diesem video erkl'rt wernde. ausderem k;nnen so neue angelegt und bearbtitet werden die das weiter vorgehen der datei bestimmen",
+      "chapters": {
+        "30": "Was sind Formatvorlagen",
+        "56": "Formatvorlagen benutzen",
+        "82": "Formatvorlagen erstellen"
+      },
+      "exercise": "Ein Projektantrag wird erstellt und als Brief an die Forschungsanstallt verschickt um weitere GElder zu erhalten. Deswegen werden nicht nur ein offizieller Birf, mit einem anhang der Projecktskizze verschickt.",
+      "files": ["din5008a.pdf", "din5008r.pdf"]
+    },
+    "serienbrief": {
+      "title": "Serienbrief",
+      "subtitle": "EINEN Brief an VIELE Empfänger",
+      "videosrc": "/movie.mp4",
+      "info": "Briefe nach der DIN5008 muessen bestimme vorschriften erfellen die in diesem video erkl'rt wernde. ausderem k;nnen so neue angelegt und bearbtitet werden die das weiter vorgehen der datei bestimmen",
+      "chapters": {
+        "30": "Was sind Formatvorlagen",
+        "56": "Formatvorlagen benutzen",
+        "82": "Formatvorlagen erstellen"
+      },
+      "exercise": "Ein Projektantrag wird erstellt und als Brief an die Forschungsanstallt verschickt um weitere GElder zu erhalten. Deswegen werden nicht nur ein offizieller Birf, mit einem anhang der Projecktskizze verschickt.",
+      "files": ["din5008a.pdf", "din5008r.pdf"]
+    }
+  }
+}
