@@ -108,7 +108,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="">
-                <video ref={player} controls className="rounded-2xl  w-full">
+                <video ref={player} controls className="rounded-2xl  w-full max-h-[80vh]">
                   <source src={videosrc} type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
