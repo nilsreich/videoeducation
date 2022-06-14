@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import * as data from "../pages/content.json";
+import  { default as data }  from "../pages/content.json";
 
 export function Sidebar({ handleClick }) {
   const [themen, setThemen] = useState([]);

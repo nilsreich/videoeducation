@@ -1,9 +1,10 @@
 import { Sidebar } from "./../components/sidebar";
 import { Card } from "./../components/card";
 import { useEffect, useState, useRef } from "react";
-import * as data from "./content.json";
+import  { default as data }  from "../pages/content.json";
 
 export default function Home() {
+  console.log(data.collection.din5008)
   const player = useRef();
 
   const [title, setTitle] = useState("");
